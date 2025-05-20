@@ -223,5 +223,3 @@ def evaluate(candidate_code: str, num_tests: int = 200) -> dict:
 - OpenAI API key
 - Required packages (see requirements.txt)
 
-## License
-[Your License Here] 
