@@ -345,7 +345,7 @@ def main(generations: int, top_k: int = 5, problem: str = None, target_speedup: 
     Args:
         generations: Number of evolution generations
         top_k: Number of top survivors each generation
-        problem: Name of the problem directory in problems/
+        problem: Name of problem directory in problems/
         target_speedup: Target speedup factor to achieve before stopping
     """
     if not problem:
